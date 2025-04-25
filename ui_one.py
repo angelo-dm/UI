@@ -5,7 +5,7 @@ def salvar_nome_endereco():
     endereco = entry_endereco.get()
     if nome:
         with open("nomes_endereco.txt", "a") as arquivo:
-            arquivo.write("Nome:" + nome + '\n' + "Endereço:" + endereco + '\n')
+            arquivo.write("Nome: " + nome + '\n' + "Endereço: " + endereco + '\n')
 
         label_status.config(text=f'Nome "{nome}" e o endereço "{endereco}" foram salvos com sucesso!', fg="green")
     else:

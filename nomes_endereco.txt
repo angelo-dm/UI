@@ -1,2 +1,4 @@
-Nome:Angelo Magno
-Endereço:Rua Dr. Armindo, nº 324
+Nome: Angelo Magno
+Endereï¿½o: Rua Dr. Armindo, nï¿½ 324
+Nome: Bruno Oliveira
+Endereï¿½o: Rua centenaria n 645
